@@ -6,7 +6,7 @@
  ### :sweat_smile: Fun facts about me:
  
  - :cherry_blossom: I am an avid gardener. I love to see flowers blooming all year round, so I have collected more than 100 kinds of plans :evergreen_tree: :tulip: in my garden, more than 30 of them are roses :rose:. I also love to collect succulents :cactus:for house planting.
- - :stew: I was born and raised in Vietnam, cooking Vietnamese food help me feel better when living away from home.
+ - :stew: I was born and raised in Vietnam, cooking Vietnamese foods help me feel better when living away from home.
  - :feet: If you don't see me online coding, or not in my garden with my plants, I could be found in any of US national parks, enjoy hiking, become one with nature.
  
 ### :speech_balloon:
