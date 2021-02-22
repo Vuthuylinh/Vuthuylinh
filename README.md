@@ -1,4 +1,4 @@
-### Hi, I'm Linh :sparkles: 
+### :sparkles: Hi, I'm Linh :sparkles: 
 
 - :octocat: I am a fullstack sofware developer, forever learner, one has just found her passion after a long road trying mutiple jobs in different fields.
 - 🌱 I’m currently learning  :arrow_right_hook: React Hooks :leftwards_arrow_with_hook: and :fire: Firebase :fire:
