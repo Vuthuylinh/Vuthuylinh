@@ -1,8 +1,8 @@
 ### :sparkles: Hi, I'm Linh :wave: 
 
 - :octocat: I am a fullstack sofware developer, forever learner, one has just found her passion after a long road trying mutiple jobs in different fields.
-- 🌱 I’m currently learning  :arrow_right_hook: React Hooks :leftwards_arrow_with_hook: and :fire: Firebase :fire:
-- 😄 Pronouns: she/her
+- 🌱 I’m currently learning React Hooks :leftwards_arrow_with_hook: and  Firebase :fire:
+- :blossom: Pronouns: she/her
  ### :sweat_smile: Fun facts about me:
  
  - :cherry_blossom: I am an avid gardener. I love to see flowers blooming all year round, so I have collected more than 100 kinds of plans :evergreen_tree: :tulip: in my garden, more than 30 of them are roses :rose:. I also love to collect succulents :cactus:for house planting.
