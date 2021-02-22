@@ -1,4 +1,4 @@
-### :sparkles: Hi, I'm Linh :sparkles: 
+### :sparkles: Hi, I'm Linh :wave: 
 
 - :octocat: I am a fullstack sofware developer, forever learner, one has just found her passion after a long road trying mutiple jobs in different fields.
 - 🌱 I’m currently learning  :arrow_right_hook: React Hooks :leftwards_arrow_with_hook: and :fire: Firebase :fire:
@@ -9,5 +9,5 @@
  - :feet: If you don't see me online coding, or not in my garden with my plants, I could be found in any of US national parks, enjoy hiking, become one with nature.
  - 
 ### :speech_balloon:
-- :raised_hands:I'm always open meet new people and collaborations.
+- :raised_hands: I'm always open meet new people and collaborations.
 - 📫 Check out my [resume](https://drive.google.com/file/d/1bwHB1tD-bsd_EYvqoV6cfU0RhQldC7WI/view?usp=sharing),  and [linkedin](https://www.linkedin.com/in/linh-vu-de/)!
