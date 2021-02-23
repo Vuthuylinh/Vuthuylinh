@@ -11,4 +11,4 @@
  
 ### :speech_balloon:
 - :raised_hands: I'm always open meet new people and collaborations.
-- 📫 Check out my [resume](https://drive.google.com/file/d/1bwHB1tD-bsd_EYvqoV6cfU0RhQldC7WI/view?usp=sharing),  and [linkedin](https://www.linkedin.com/in/linh-vu-de/)!
+- 📫 Check out my [resume](https://drive.google.com/file/d/1UXvx9T14Rgv8so38Nh6LLiIbwPfoTarg/view?usp=sharing),  and [linkedin](https://www.linkedin.com/in/linh-vu-de/)!
