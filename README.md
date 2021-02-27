@@ -1,6 +1,6 @@
 ### :sparkles: Hi, I'm Linh :wave: 
 
-- :octocat: I am a fullstack sofware developer, forever learner, one has just found her passion after a long road trying mutiple jobs in different fields.
+- :octocat:  I am a fullstack sofware developer, forever learner, one has just found her passion after a long road trying mutiple jobs in different fields.
 - 🌱 I’m currently learning React Hooks :leftwards_arrow_with_hook: and  Firebase :fire:
 - :blossom: Pronouns: she/her
  ### :sweat_smile: Fun facts about me :rose:
