@@ -1,7 +1,7 @@
 ### :sparkles: Hi, I'm Linh :wave: 
 
 - :octocat:   I am a Fullstack software developer, a forever learner, who has just found her passion after a long road trying multiple jobs in different fields.
-- 🌱 I’m currently learning React Hooks :leftwards_arrow_with_hook: and  Firebase :fire:
+- 🌱 I’m currently learning Java and Angular
 - :blossom: Pronouns: she/her
  ### :sweat_smile: Fun facts about me :rose:
  
