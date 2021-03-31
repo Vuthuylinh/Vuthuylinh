@@ -1,4 +1,4 @@
-[image](/header.png)
+![image](/header.png)
 ### :sparkles: Hi, I'm Linh :wave:
 
 - :octocat:   I am a Fullstack software developer, a forever learner, who has just found her passion after a long road trying multiple jobs in different fields.
