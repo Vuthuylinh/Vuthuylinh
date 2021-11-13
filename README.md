@@ -3,7 +3,7 @@
 
 - :octocat:   I am an aspiring Fullstack software developer, a forever learner, who has just found her passion after a long road trying multiple jobs in different fields.
 - :star: I'm grateful to be a [#vGHC21's](https://ghc.anitab.org/) Scholar
-- 🌱 I’m currently learning PHP, Angular and A/B testing
+- 🌱 I’m currently learning Java
 - :blossom: Pronouns: she/her
  ### :sweat_smile: Fun facts about me :rose:
 
